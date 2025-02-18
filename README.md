@@ -20,6 +20,14 @@ This project demonstrates data pipeline development skills using Apache Beam, fo
 - Python 3.8 or higher
 - pip (Python package installer)
 
+## Dataset
+The [dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) used in this project is sourced from Kaggle. 
+
+### Data Setup
+1. Create a Kaggle account if you don't have one
+2. Download the dataset from Kaggle
+3. Place the downloaded files in the `data/raw` directory
+
 ## Installation
 
 1. Clone the repository:
@@ -67,4 +75,4 @@ This project is currently in development. Future updates will include:
 
 ## Technical Stack
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
